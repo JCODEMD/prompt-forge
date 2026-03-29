@@ -1,6 +1,6 @@
 ---
 name: prompt-forge
-description: Use before executing any technical or complex task to verify, structure, and elevate prompt quality using the TCRO framework, ensuring professional standards and specific output indicators — covers building, refactoring, debugging, explaining, designing, and training tasks
+description: Use when receiving any technical task — building, refactoring, debugging, explaining, designing, or configuring — before executing, regardless of whether the prompt seems complete or not
 ---
 
 # Prompt Forge
